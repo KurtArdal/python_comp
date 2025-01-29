@@ -1,0 +1,1 @@
+A git repo for the book Python Programming - An introduction to computer science 
